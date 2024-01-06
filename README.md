@@ -1,2 +1,6 @@
 # Water-Quality-Index
 "Comprehensive Water Quality Assessment and Potability Prediction using Multi-parameter Analysis"
+INRODUCTION-In this project, I will analyse and manipulate a dataset.Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.The aim of the project is to classify water quality.
+![image](https://github.com/Saarthak-2000/Water-Quality-Index/assets/97108442/85656fad-2a2f-4ee9-8a83-4dd3285b8970)
+Conclusion-Accuracy =92%. The current feature set appears to be insufficient for the model to effectively discriminate between the two classes, hindering its performance. Therefore, collecting additional data is a viable option. However, based on the conducted analysis, utilizing the SVC model with a reduced set of the most relevant features could be a more effective approach.
+![image](https://github.com/Saarthak-2000/Water-Quality-Index/assets/97108442/eeb14f7d-6d60-4fbe-8857-48f709e4ae77)
